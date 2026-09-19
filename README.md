@@ -18,8 +18,6 @@
 ---
 
 ## About Me
-
-- Final-year B.Tech Computer Engineering student at Marwadi University (CGPA 9.35/10.00)
 - Building practical applications with Python and modern AI frameworks: RAG pipelines, LLM fine-tuning, and audio/text classification
 - Exploring LLMs, retrieval-augmented generation, parameter-efficient fine-tuning, and ML deployment with FastAPI and Docker
 - Also experienced with full-stack development using the MERN stack
