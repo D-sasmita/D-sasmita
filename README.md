@@ -5,10 +5,11 @@
 </h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack-61DAFB?style=flat&logo=react&logoColor=black" />
+  
 </p>
 
 <p align="center">
@@ -28,18 +29,35 @@
 ## Technical Focus
 
 ```
-Generative AI            RAG (LangChain + FAISS) and LLM fine-tuning (LoRA / PEFT)
-      |
-Machine Learning         Text and audio classification
+Software Engineering     MERN full-stack application development
       |
 ML Engineering           FastAPI + Docker model serving
       |
-Software Engineering     MERN full-stack application development
+Generative AI            RAG (LangChain + FAISS) and LLM fine-tuning (LoRA / PEFT)
+      |
+Machine Learning         Text and audio classification
 ```
 
 ---
 
 ## Featured Projects
+
+### Full-Stack Development
+
+**[TimeX (MERN)](https://github.com/D-sasmita/TimeX_MERN)**
+Full-stack MERN e-commerce application for selling watches. Includes JWT authentication, a shopping cart and checkout flow, order history, and an admin dashboard for managing products, orders, and store analytics. Also includes an AI Watch Finder that uses Google Gemini to recommend products from the store's own catalog based on a natural-language query.
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=flat-square" />
+
+---
+### ML Engineering / Deployment
+
+**[SMS Spam API](https://github.com/D-sasmita/sms-spam-api)**
+Containerized FastAPI service that classifies SMS messages as spam or not spam. Takes a trained TF-IDF + Multinomial Naive Bayes model and wraps it in a REST API with a Dockerfile, moving from a standalone model to a deployable service.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+
+**[SMS Spam Detector](https://github.com/D-sasmita/sms-spam-detector)**
+Streamlit application for the same spam classification task, using TF-IDF vectorization and a Multinomial Naive Bayes model (97.1% accuracy, 100% precision on the SMS Spam Collection dataset). Pairs with the API version to show both application-level and deployment-level ML work.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/TF--IDF-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Naive%20Bayes-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 ### Generative AI
 
@@ -59,23 +77,8 @@ Flan-T5-base fine-tuned with LoRA on the SAMSum dataset to summarize short chat-
 Academic research project classifying heart and lung sound recordings with MFCC feature extraction and supervised machine learning. Covers dataset exploration, audio visualization, heart and lung sound preprocessing, work on the ICBHI and Pascal datasets, and a dedicated explainable AI notebook.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Audio%20Classification-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/MFCC-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Feature%20Extraction-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Explainable%20AI-6C63FF?style=flat-square" />
 
-### ML Engineering / Deployment
 
-**[SMS Spam API](https://github.com/D-sasmita/sms-spam-api)**
-Containerized FastAPI service that classifies SMS messages as spam or not spam. Takes a trained TF-IDF + Multinomial Naive Bayes model and wraps it in a REST API with a Dockerfile, moving from a standalone model to a deployable service.
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 
-**[SMS Spam Detector](https://github.com/D-sasmita/sms-spam-detector)**
-Streamlit application for the same spam classification task, using TF-IDF vectorization and a Multinomial Naive Bayes model (97.1% accuracy, 100% precision on the SMS Spam Collection dataset). Pairs with the API version to show both application-level and deployment-level ML work.
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/TF--IDF-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Naive%20Bayes-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-
-### Full-Stack Development
-
-**[TimeX (MERN)](https://github.com/D-sasmita/TimeX_MERN)**
-Full-stack MERN e-commerce application for selling watches. Includes JWT authentication, a shopping cart and checkout flow, order history, and an admin dashboard for managing products, orders, and store analytics. Also includes an AI Watch Finder that uses Google Gemini to recommend products from the store's own catalog based on a natural-language query.
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=flat-square" />
-
----
 
 ## Skills
 
