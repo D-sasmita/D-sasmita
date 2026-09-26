@@ -16,7 +16,10 @@
   <a href="https://github.com/D-sasmita"><img src="https://img.shields.io/github/followers/D-sasmita?label=Follow&style=social" /></a>
 </p>
 
+
 ---
+
+<h1 align="center">Hi, I'm Sasmita Das</h1> <table> <tr> <td width="65%"> <h3 align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=620&lines=AI%2FML+Developer;Generative+AI+Developer;Python+Developer;LLM+%26+RAG+Developer;Machine+Learning+Engineer;Full-Stack+Developer" alt="Typing SVG" /> </h3> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Full--Stack-61DAFB?style=flat&logo=react&logoColor=black" /> </p> <p align="center"> <a href="https://github.com/D-sasmita"><img src="https://img.shields.io/github/followers/D-sasmita?label=Follow&style=social" /></a> </p> </td> <td width="35%"> <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="100%" /> </td> </tr> </table>
 
 ## About Me
 - Building practical applications with Python and modern AI frameworks: RAG pipelines, LLM fine-tuning, and audio/text classification
