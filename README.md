@@ -6,9 +6,14 @@
 
 </div>
 
-## 👋 Hi, I'm Sasmita
+## 👋 Hi, I'm Sasmita Das
 
 I turn ideas into working software: Android apps on Google Play, AI-powered web apps, and data dashboards.
+<p align="center">
+  <a href="https://sasmita-portfolio-tau.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-415C9B?style=for-the-badge" alt="Visit Portfolio"/>
+  </a>
+</p>
 
 ---
 
