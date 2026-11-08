@@ -39,7 +39,7 @@ I turn ideas into working software: Android apps on Google Play, AI-powered web 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,androidstudio,react,redux,tailwind,mysql,git,pandas,numpy,plotly,streamlit,jupyter,langchain&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,vite,js,html,css,framer,git,github,vercel&perline=8" />
 
 </div>
 
