@@ -103,28 +103,7 @@ and I'm now building toward data engineering. I learn by building things, then b
 
 <br>
 
-<h2 align="center">GitHub Statistics</h2>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=D-sasmita&show_icons=true&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=7F52FF&icon_color=0A66C2&text_color=c9d1d9&count_private=true" alt="GitHub stats" height="165"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-sasmita&layout=compact&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=7F52FF&text_color=c9d1d9" alt="Most used languages" height="165"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://streak-stats.demolab.com/?user=D-sasmita&background=0d1117&border=30363d&ring=7F52FF&fire=0A66C2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0A66C2&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D-sasmita&bg_color=0d1117&color=0A66C2&line=7F52FF&point=ffffff&area=true&area_color=7F52FF&hide_border=true&title_color=7F52FF" alt="Contribution graph" width="95%"/>
-
-</div>
-
-<br>
 
 <h2 align="center">Connect With Me</h2>
 
