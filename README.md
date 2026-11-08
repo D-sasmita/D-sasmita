@@ -6,9 +6,9 @@
 
 </div>
 
-## 👩‍💻 About
+## 👋 Hi, I'm Sasmita
 
-Computer Engineering student building **web, mobile, and data applications**. I learn by building, and I like projects that end up live.
+I turn ideas into working software: Android apps on Google Play, AI-powered web apps, and data dashboards.
 
 ---
 
@@ -28,6 +28,8 @@ Computer Engineering student building **web, mobile, and data applications**. I 
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D-sasmita/moodmelody-music-mood-tracker)
 
 ---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
