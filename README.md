@@ -38,9 +38,7 @@ I turn ideas into working software: Android apps on Google Play, AI-powered web 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vite,js,html,css,framer,git,github,vercel&perline=8" />
-
+  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,git,github,vercel&perline=8" />
 </div>
 
 ---
