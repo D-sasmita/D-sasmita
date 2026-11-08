@@ -6,7 +6,7 @@
 
 </div>
 
-### 01 / A little about me
+### About Me
 
 I enjoy exploring how technology works, understanding patterns in data, and turning ideas into functional software.
 
@@ -14,9 +14,9 @@ My interests sit at the intersection of software development, data engineering, 
 
 `Computer Engineering` · `Marwadi University` · `2027`
 
-### 02 / Selected Work
+### Selected Work
 
-**01. IEEE Research**
+**IEEE Research**
 
 *ML-based power grid load forecasting using XGBoost*
 
@@ -24,20 +24,20 @@ Co-author of a research paper on machine learning-based power grid load forecast
 
 [![Read Research](https://img.shields.io/badge/READ_RESEARCH-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11232653)
 
-**02. Olympics Data Explorer**
+**Olympics Data Explorer**
 
 An interactive project exploring Olympic history, athletes, countries, and sporting events using Python, Pandas, Streamlit, and Plotly.
 
 [![View Project](https://img.shields.io/badge/VIEW_PROJECT-7656C9?style=flat-square&logo=github&logoColor=white)](https://github.com/D-sasmita)
 
-**03. MoodMelody**
+**MoodMelody**
 
 A Kotlin-based Android application that connects your mood with curated YouTube music playlists.
 
 [![Google Play](https://img.shields.io/badge/GOOGLE_PLAY-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.marwadiuniversity.moodmelody)
 [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/D-sasmita/moodmelody-music-mood-tracker)
 
-### 03 / My Portfolio
+### Portfolio
 
 <div align="center">
 
@@ -51,7 +51,7 @@ A Kotlin-based Android application that connects your mood with curated YouTube 
 
 </div>
 
-### 04 / Technologies I work with
+### Technologies I Work With
 
 <div align="center">
 
@@ -81,7 +81,7 @@ A Kotlin-based Android application that connects your mood with curated YouTube 
 
 </div>
 
-### 05 / Find me
+### Find Me
 
 <div align="center">
 
