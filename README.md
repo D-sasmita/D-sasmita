@@ -6,7 +6,7 @@ Computer Engineering student building web, mobile, and data applications.
 
 ## 📄 Publication
 
-**[PASTE EXACT PAPER TITLE HERE](https://ieeexplore.ieee.org/document/11232653)**
+**(https://ieeexplore.ieee.org/document/11232653)**
 IEEE · ML-based power grid load forecasting using XGBoost (co-author)
 
 [![IEEE](https://img.shields.io/badge/IEEE_Xplore-Read_Paper-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11232653)
