@@ -38,13 +38,30 @@ I turn ideas into working software: Android apps on Google Play, AI-powered web 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,androidstudio,react,redux,tailwind,mysql,git,maven&perline=10" />
+<!-- Programming Languages & Frameworks -->
+<img src="https://skillicons.dev/icons?i=python,java,spring,android,androidstudio,react,redux,tailwind,mysql,git&perline=10" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,plotly,streamlit,jupyter,langchain&perline=10" />
+<!-- Backend & Development Tools -->
+<img src="https://cdn.simpleicons.org/springsecurity/6DB33F" height="48" alt="Spring Security" />
+<img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="48" alt="JWT" />
+<img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="48" alt="Maven" />
+
+<br><br>
+
+<!-- Data Science & AI -->
+<img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas" />
+<img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy" />
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="48" alt="Plotly" />
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" alt="Streamlit" />
+<img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="Jupyter" />
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" alt="LangChain" />
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini" />
 
 </div>
+
+---
 
 
 ## 🤝 Connect With Me
