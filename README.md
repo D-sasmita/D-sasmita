@@ -46,8 +46,6 @@ I turn ideas into working software: Android apps on Google Play, AI-powered web 
 
 </div>
 
----
-
 
 ## 🤝 Connect With Me
 
