@@ -1,41 +1,42 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:415C9B,100:7F52FF&height=190&section=header&text=Sasmita%20Das&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20Ideas%20Into%20Software&descSize=17&descAlignY=60" alt="Sasmita Das"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101B36,50:263F73,100:7656C9&height=210&section=header&text=Sasmita%20Das&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=I%20build%20things%20with%20code.&descSize=18&descAlignY=62" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=7F52FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Software+Development+%7C+Data+Engineering;Android+%7C+Web+%7C+Machine+Learning;IEEE+Research+Co-author)](https://github.com/D-sasmita)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=8B7BFF&center=true&vCenter=true&width=650&lines=Software+Development.;Data+Engineering.;Machine+Learning.;Always+curious.+Always+building.)](https://github.com/D-sasmita)
 
 </div>
 
-## 👋 Hi, I'm Sasmita Das
+### A little about my work
 
-I enjoy turning ideas into functional software, exploring how technology works, and building applications that solve practical problems.
+I like understanding how things work, finding patterns in data, and turning technical ideas into working products.
 
-Currently exploring software development, data engineering, and machine learning through hands-on projects and continuous learning.
+My work moves between application development, data, and machine learning. I learn best by building, testing, and figuring things out along the way.
 
-<div align="center">
-  <a href="https://sasmita-portfolio-tau.vercel.app">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-415C9B?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/>
-  </a>
-</div>
+**Currently:** Computer Engineering · Marwadi University · 2027
 
-## 📄 Research
+### Things I've built
+
+**01 / MoodMelody**
+
+A mood-based Android music app that connects how you feel with curated YouTube playlists.
+
+[Google Play ↗](https://play.google.com/store/apps/details?id=com.marwadiuniversity.moodmelody) · [Source Code ↗](https://github.com/D-sasmita/moodmelody-music-mood-tracker)
+
+**02 / Olympics Data Explorer**
+
+An interactive exploration of Olympic history, athletes, countries, and sporting events, built with Python and Streamlit.
+
+[GitHub ↗](https://github.com/D-sasmita)
+
+### Research
 
 **ML-based power grid load forecasting using XGBoost**
 
-IEEE · Co-author
+Co-authored research paper published through IEEE.
 
-[![IEEE](https://img.shields.io/badge/IEEE_Xplore-Read_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11232653)
+[Read the paper on IEEE Xplore ↗](https://ieeexplore.ieee.org/document/11232653)
 
-## 📱 Published Application
-
-**MoodMelody**
-
-An Android application that matches your mood with curated YouTube playlists. Developed using Kotlin.
-
-[![Google Play](https://img.shields.io/badge/Google_Play-Get_MoodMelody-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.marwadiuniversity.moodmelody)
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D-sasmita/moodmelody-music-mood-tracker)
-
-## 🛠️ Tech Stack
+### The tools I work with
 
 <div align="center">
 
@@ -43,42 +44,41 @@ An Android application that matches your mood with curated YouTube playlists. De
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/springsecurity/6DB33F" height="48" alt="Spring Security"/>
+<img src="https://cdn.simpleicons.org/springsecurity/6DB33F" height="42" alt="Spring Security"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="48" alt="JWT"/>
+<img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="42" alt="JWT"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="48" alt="Maven"/>
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas"/>
+<img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="42" alt="Maven"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" height="42" alt="Pandas"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="48" alt="Plotly"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" height="42" alt="NumPy"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" alt="Streamlit"/>
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="42" alt="Plotly"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="Jupyter"/>
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42" alt="Streamlit"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" alt="LangChain"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" height="42" alt="Jupyter"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini"/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="42" alt="LangChain"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="42" alt="Gemini"/>
 
 </div>
 
-## 🤝 Connect With Me
+### Find me elsewhere
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasmita-d-9b20aa293/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D-sasmita)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sasmita_00/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7656C9?style=flat-square&logo=vercel&logoColor=white)](https://sasmita-portfolio-tau.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasmita-d-9b20aa293/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/D-sasmita)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sasmita_00/)
 
-<br/>
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=D-sasmita&style=flat-square&color=7F52FF&label=Profile+views)
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:0A66C2&height=110&section=footer" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=D-sasmita&style=flat-square&color=7656C9&label=VISITORS" />
 
 </div>
