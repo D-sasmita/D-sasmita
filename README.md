@@ -12,7 +12,7 @@
 
 Computer Engineering Student · Software Development · Data Engineering
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7656C9?style=flat-square&logo=vercel&logoColor=white)](https://sasmita-portfolio-tau.vercel.app)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-Visit-7656C9?style=flat-square&logo=vercel&logoColor=white)](https://sasmita-portfolio-tau.vercel.app](https://sasmita-portfolio-tau.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasmita-d-9b20aa293/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/D-sasmita)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sasmita_00/)
